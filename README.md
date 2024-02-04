@@ -13,7 +13,7 @@ Ensure that your data file adheres to the following specifications:
 ## Usage:
 
 1. Prepare your data file following the specified format (.csv).
-2. Run the program, ensuring the correct discharge current is set in Amperes.
+2. Run the code, ensuring the correct discharge current is set in Amperes.
 
 
 
