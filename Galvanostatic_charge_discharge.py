@@ -20,6 +20,6 @@ discharge_current = (50e-6) #The value of the discharge current needs to be set 
 
 capacitance = (discharge_current*(final_time - initial_time))/(initial_voltage - final_voltage)
 
-print(f"The device's capacitance is {capacitance}")
+print(f"The device's capacitance is {capacitance} Farads")
 
 
